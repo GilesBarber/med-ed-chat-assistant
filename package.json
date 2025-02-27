@@ -1,0 +1,24 @@
+{
+  "name": "med-ed-chat-assistant",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "sh deploy.sh"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "material-design-icons": "^3.0.1",
+    "openai": "^4.85.4",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "vuetify": "^3.7.14"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.2.0"
+  }
+}
