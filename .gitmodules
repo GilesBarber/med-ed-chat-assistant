@@ -1,3 +1,3 @@
-[submodule "/dist"]
-    path = /dist
-    url = https://github.com/GilesBarber/med-ed-chat-assistant.git
+[submodule "dist"]
+    path = dist
+    url = git://github.com/GilesBarber/med-ed-chat-assistant.git
